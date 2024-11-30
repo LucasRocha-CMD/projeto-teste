@@ -26,8 +26,3 @@ Desenvolver um script em Python que lê um arquivo de texto, conta o número de 
 - `feature/palavras-extremas`: Implementação da identificação das palavras mais longas e curtas.
 - `feature/geracao-relatorio`: Implementação da geração de relatório.
 
-## Commits e Merges
-Realize commits frequentes com mensagens claras e descritivas. Após concluir cada funcionalidade, faça o merge das branches na branch principal (`main`).
-
-## Documentação
-Documente o processo de desenvolvimento, incluindo os desafios enfrentados e como o Git ajudou a gerenciar o projeto.
